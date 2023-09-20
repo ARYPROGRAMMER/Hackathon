@@ -1,3 +1,6 @@
+## important : build & ios & android &.idea &.dart_tool are not included here
+## they might get built automatically
+
 # Hackathon SIH 1433 SOLUTION
 
 TEAM HYDRA
