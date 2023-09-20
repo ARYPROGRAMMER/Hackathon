@@ -37,5 +37,4 @@ lib
 ...
 
 
-## Limitation
-Due to the limitations of chatgpt 3.5 turbo, the API is only able to summarize ~3 pages at a time.
+
