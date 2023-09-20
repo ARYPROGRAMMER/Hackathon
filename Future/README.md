@@ -12,6 +12,7 @@
 
 ## FLOW  
 
+...
 lib
 |
 |_ 📁src
@@ -33,7 +34,7 @@ lib
 			|	|__ 📁data_source <- works with db and api
 			|	|__ 📁repository <- combine and map data
 			|__ 📁presentation <- screens and widgets
-
+...
 
 
 ## Limitation
